@@ -1,0 +1,6 @@
+/src/.vs
+packages/
+bin/
+obj/
+Properties/
+*.csproj.user
