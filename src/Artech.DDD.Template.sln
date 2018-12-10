@@ -31,6 +31,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artech.XXX.Infrastructure.R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artech.XXX.WebApi", "Artech.XXX.WebApi\Artech.XXX.WebApi.csproj", "{ED1CE04C-E430-485A-A8F0-154ED31A51A2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".template.config", ".template.config", "{BDB5F917-D4FE-4F4C-897B-FEAA26ACE8E6}"
+	ProjectSection(SolutionItems) = preProject
+		template.json = template.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
